@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Housing-Marketplace
 
 CURRENTLY IN-PROGRESS
